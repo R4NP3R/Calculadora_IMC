@@ -26,4 +26,6 @@
 .formText {
     font-weight: bold;
     font-size: 18px;
+    padding-bottom: 8px;
+    border-radius: 8px;
 }
